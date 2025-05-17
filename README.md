@@ -11,7 +11,11 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 | Component                               | # of Product | Description |
 |-----------------------------------------|--------------|-------------|
-| Transformer                             | 1            |             |
+| Transformer                             | 1            | Used to convert 120 AC to 24 AC voltage                                  |
+| Full Bridge Rectifier                   | 1            | Used to make the 24 AC into a positive single                            |
+| 3300uF 80V Capacitor                    | 1            | Need a large capcacitor to make the 24 AC single into a fixed DC single  |
+| Voltage Regulator (LM317)               | 3            | Helps to maintain a stable and consistent voltage supply                 |
+
 | Heatsinks                               | 3            |             |
 | Volt & Ammeter                          | 2            |             |
 | Binding Posts (2 pack)                  | 4 or 8       |             |
@@ -23,7 +27,7 @@ A lab bench power supply that has both a variable and constant voltage output. T
 | 10uF 50V Tantalum Capacitor (10uF 50V)  | 2            |             |
 | 20 Turn 10K Trimpots                    | 4            |             |
 | SP10T                                   | 1            |             |
-| Bridge Rectifier                        | 1            |             |
+
 
 
 
