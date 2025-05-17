@@ -17,6 +17,8 @@ Fully Assemble
 
 ## Circuit Diagram
 
+![Image](https://github.com/user-attachments/assets/4cb12bfb-2116-418a-bb56-2f9d4adec1fe)
+
 ## Parts List
 
 | Component                               | # of Product | Description                                                              |
