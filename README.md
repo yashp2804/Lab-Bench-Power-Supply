@@ -9,4 +9,5 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 ## Parts List
 
+|Component|Number of Product|Description|
 
