@@ -9,12 +9,21 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 ## Parts List
 
-| Component           | Number of Components | Description                                                                 |
-|---------------------|----------------------|-----------------------------------------------------------------------------|
-| Motor Controller    | 2                    | Controls motor speed and direction using PWM signals and feedback loops.    |
-| Sensor Module       | 5                    | Includes temperature, pressure, and humidity sensors with I2C communication.|
-| Power Supply Unit   | 1                    | Regulates and distributes power to all system components safely.            |
-| Display Interface   | 1                    | OLED display showing system stats in real time.                             |
-| Microcontroller     | 1                    | Core processing unit handling all inputs and outputs.                       |
+| Component                               | $/piece | # of Product | Description |
+|-----------------------------------------|---------|--------------|-------------|
+| Transformer                             |         | 3            |             |
+| Heatsinks                               |         | 3            |             |
+| Volt & Ammeter                          |         | 6            |             |
+| Binding Posts (2 pack)                  |         | 3            |             |
+| Fans                                    |         | 3            |             |
+| 10 Turn 10K Potentiometer               |         | 3            |             |
+| Power Plug                              |         | 3            |             |
+| Voltage Regulator (LM317)               |         | 6            |             |
+| 2200uF 63V Capacitor (3300uF 80V)       |         | 3            |             |
+| 10uF 50V Tantalum Capacitor (10uF 50V)  |         | 3            |             |
+| 20 Turn 10K Trimpots                    |         | 6            |             |
+| SP10T                                   |         | 2            |             |
+| Bridge Rectifier                        |         | 3            |             |
+
 
 
