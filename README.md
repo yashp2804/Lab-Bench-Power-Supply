@@ -7,7 +7,7 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 - [Chassis](#chassis)
 - [Circuit Diagram](#circuit-diagram)
-- [Parts List](#parts-list)
+- [Bill of Matrail](#bill-of-matrail)
 
 ## Chassis
 
@@ -21,7 +21,7 @@ Fully Assemble
 
 ![Image](https://github.com/user-attachments/assets/4cb12bfb-2116-418a-bb56-2f9d4adec1fe)
 
-## Parts List
+## Bill of Matrail
 
 | Component                               | # of Components  | Description                                                              |
 |-----------------------------------------|--------------|--------------------------------------------------------------------------|
