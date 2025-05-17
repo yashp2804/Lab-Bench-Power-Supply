@@ -9,7 +9,12 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 ## Parts List
 
-| Component | Number of Product | Description |
-| --- | --- |
-| Transformer | 1 | 120v to 20v for North America |
+| Component           | Number of Components | Description                                                                 |
+|---------------------|----------------------|-----------------------------------------------------------------------------|
+| Motor Controller    | 2                    | Controls motor speed and direction using PWM signals and feedback loops.    |
+| Sensor Module       | 5                    | Includes temperature, pressure, and humidity sensors with I2C communication.|
+| Power Supply Unit   | 1                    | Regulates and distributes power to all system components safely.            |
+| Display Interface   | 1                    | OLED display showing system stats in real time.                             |
+| Microcontroller     | 1                    | Core processing unit handling all inputs and outputs.                       |
+
 
