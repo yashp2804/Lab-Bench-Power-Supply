@@ -7,11 +7,15 @@ A lab bench power supply that has both a variable and constant voltage output. T
 
 - [PartsList] (#parts-list)
 
-
 ## Chassis
 
+part Labels 
 ![Image](https://github.com/user-attachments/assets/2ab2d942-4c63-4bbf-a29e-2c8f60b880a3)
 
+Fully Assemble 
+![Image](https://github.com/user-attachments/assets/76dd0ce3-775c-4afb-b1f3-6f0e68f42456)
+
+## Circuit Diagram
 
 ## Parts List
 
