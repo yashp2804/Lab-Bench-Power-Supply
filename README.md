@@ -23,7 +23,7 @@ Fully Assemble
 
 ## Parts List
 
-| Component                               | # of Product | Description                                                              |
+| Component                               | # of Components  | Description                                                              |
 |-----------------------------------------|--------------|--------------------------------------------------------------------------|
 | Transformer                             | 1            | Used to convert 120 AC to 24 AC voltage                                  |
 | Full Bridge Rectifier                   | 1            | Used to make the 24 AC into a positive single                            |
