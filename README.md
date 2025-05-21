@@ -3,6 +3,8 @@
 ## What is it?
 A lab bench power supply that has both a variable and constant voltage output. The variable output is between 24 volts to 1 volts. There are three different fixed voltage outputs at 3.3 volts, 5 volts, and 12 volts. 
 
+![Image](https://github.com/user-attachments/assets/44e12e32-c17f-4802-8624-00b559aad972)
+
 ## Table of Contents
 
 - [Chassis](#chassis)
@@ -12,7 +14,7 @@ A lab bench power supply that has both a variable and constant voltage output. T
 ## Chassis
 
 Part Labels 
-![Image](https://github.com/user-attachments/assets/2ab2d942-4c63-4bbf-a29e-2c8f60b880a3) ![Image](https://github.com/user-attachments/assets/76dd0ce3-775c-4afb-b1f3-6f0e68f42456)
+![Image](https://github.com/user-attachments/assets/2ab2d942-4c63-4bbf-a29e-2c8f60b880a3) 
 
 Fully Assemble 
 ![Image](https://github.com/user-attachments/assets/76dd0ce3-775c-4afb-b1f3-6f0e68f42456)
