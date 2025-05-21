@@ -19,7 +19,7 @@ Fully Assemble
 
 ## Circuit Diagram
 
-![Image](https://github.com/user-attachments/assets/4cb12bfb-2116-418a-bb56-2f9d4adec1fe)
+![Image](https://github.com/user-attachments/assets/9b475e80-6cff-46f1-94d9-532394ece95e)
 
 ## Bill of Material
 
