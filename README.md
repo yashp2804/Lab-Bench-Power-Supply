@@ -12,14 +12,18 @@ A lab bench power supply that has both a variable and constant voltage output. T
 ## Chassis
 
 Part Labels 
-![Image](https://github.com/user-attachments/assets/2ab2d942-4c63-4bbf-a29e-2c8f60b880a3)
+![Image](https://github.com/user-attachments/assets/2ab2d942-4c63-4bbf-a29e-2c8f60b880a3) ![Image](https://github.com/user-attachments/assets/76dd0ce3-775c-4afb-b1f3-6f0e68f42456)
 
 Fully Assemble 
 ![Image](https://github.com/user-attachments/assets/76dd0ce3-775c-4afb-b1f3-6f0e68f42456)
 
 ## Circuit Diagram
 
+Schematic
 ![Image](https://github.com/user-attachments/assets/9b475e80-6cff-46f1-94d9-532394ece95e)
+
+Circuit wiring
+![Image](https://github.com/user-attachments/assets/a56673ce-123d-4c4a-b20c-9aa4c366834d)
 
 ## Bill of Material
 
