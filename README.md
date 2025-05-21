@@ -25,7 +25,7 @@ Schematic
 ![Image](https://github.com/user-attachments/assets/9b475e80-6cff-46f1-94d9-532394ece95e)
 
 Circuit wiring
-![Image](https://github.com/user-attachments/assets/a56673ce-123d-4c4a-b20c-9aa4c366834d)
+![Image](https://github.com/user-attachments/assets/a1667548-c95d-4786-8034-9a9232be4986)
 
 ## Bill of Material
 
