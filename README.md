@@ -10,6 +10,7 @@ A lab bench power supply that has both a variable and constant voltage output. T
 - [Chassis](#chassis)
 - [Circuit Diagram](#circuit-diagram)
 - [Bill of Material](#bill-of-material)
+- [Resources](#resources)
 
 ## Chassis
 
@@ -48,6 +49,8 @@ Circuit Wiring
 | switchs                                 | 2            | Used to turn the voltage off for both constant and fixed supply          |
 | SP10T                                   | 1            | Used to selected the constant voltage output (3.3v, 5v, 12v)             |
 
+## Resources
 
+https://dronebotworkshop.com/linear-dc-power/
 
 
