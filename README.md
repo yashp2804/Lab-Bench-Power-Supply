@@ -29,23 +29,23 @@ Circuit wiring
 
 ## Bill of Material
 
-| Component                               | # of Components  | Description                                                              |
+| Component                               | # of Components  | Description                                                          |
 |-----------------------------------------|--------------|--------------------------------------------------------------------------|
 | Transformer                             | 1            | Used to convert 120 AC to 24 AC voltage                                  |
 | Full Bridge Rectifier                   | 1            | Used to make the 24 AC into a positive single                            |
 | 3300uF 80V Capacitor                    | 1            | Need a large capcacitor to make the 24 AC single into a fixed DC single  |
-| Voltage Regulator (LM317)               | 3            | Helps to maintain a stable and consistent voltage supply                 |
-| Heatsinks                               | 3            | Helps keep the voltage regulators cold                                   |
+| Voltage Regulator (LM317)               | 3            | Helps to drop the voltage to a desired value                             |
+| Heatsinks                               | 3            | Helps keep the voltage regulators at a stable temperture                 |
 | 40mm Brushless Fan                      | 1            | Helps keep the entire case cold                                          |
-| Volt & Ammeter                          | 2            | Used to read the voltage output and current draw                         |
+| Volt & Ammeter Screen                   | 2            | Used to read the voltage output and current draw, which is then displayed|
 | Binding Posts                           | 4 or 8       | Used to get an output                                                    |
-| 10 Turn 10K Potentiometer               | 1            | Used to choose the variable voltage from 24 volts to 1 volts             |
-| 20 Turn 10K Trimpots                    | 4            | Used to select the specific fixed voltage                                |
+| 10 Turn 10K Potentiometer               | 1            | Used to selected a voltage output from 24v to 1v                         |
+| 20 Turn 10K Trimpots                    | 4            | Used to adjust the variable voltage output (3.3v, 5v, 12v)               |
 | Power Plug                              | 1            | Provides power from the outlet to the transformer                        |
-| 10uF 50V                                | 2            |                                                                          |
-| 100nF                                   | 3            |                                                                          |
-| switchs                                 | 2            | used to turn the voltage off for both contant and fixed supply           |
-| SP10T                                   | 1            |                                                                          |
+| 10uF 50V                                | 2            | Used to stabilize the voltage output                                     |
+| 100nF                                   | 3            | USed to stabilize the voltage going into the voltage regulator           |
+| switchs                                 | 2            | Used to turn the voltage off for both constant and fixed supply          |
+| SP10T                                   | 1            | Used to selected the constant voltage output (3.3v, 5v, 12v)             |
 
 
 
